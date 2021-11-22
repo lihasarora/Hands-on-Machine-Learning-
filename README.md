@@ -6,12 +6,13 @@ in an interactive way.
 
 This repository has some of the initial concepts that I explored.
 - Bias variance tradeoff (The tradeoff that plaques entire ML universe)
-- Central limit theoram (The mother of all hypothesis)
-- Law of large numbers (Something that I had just heard but never implemented)
-- Bessel's correction to sample variance (Yes, we can visualize this as well)
+- More Detailed BV tradeoff (Grad program gives you a new perspective)
+- Central limit theoram (The mother of all hypothesis testing)
 - Bootstrapping (They say that simplicity is elegant, this technique is epitome of simplicity and usefulness)
 - Visualizing properties of Principal Components (If you are a fan of Linear Algebra, you'll love this)
 - Hierarchial Clustering in Python (Let's leran and plot some dendograms)
+- Gradient Descent using Numpy (Going beyond model.fit() and model.predict() :D)
+- Multivariate gaussian Distribution (The bases for visualizing multivariate distribution) 
 
 I'll keep on adding more to it !!
 
