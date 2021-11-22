@@ -10,6 +10,8 @@ This repository has some of the initial concepts that I explored.
 - Law of large numbers (Something that I had just heard but never implemented)
 - Bessel's correction to sample variance (Yes, we can visualize this as well)
 - Bootstrapping (They say that simplicity is elegant, this technique is epitome of simplicity and usefulness)
+- Visualizing properties of Principal Components (If you are a fan of Linear Algebra, you'll love this)
+- Hierarchial Clustering in Python (Let's leran and plot some dendograms)
 
 I'll keep on adding more to it !!
 
